@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AntonioFG002
 - 👀 I’m interested in all fields of computing
-- 🌱 I’m currently learning AI and Cybersecurity
-
+- 🌱 I am currently learning AI and web development, but I would like to also learn Cybersecurity, computer vision and cloud computing
